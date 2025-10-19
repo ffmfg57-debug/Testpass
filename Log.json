@@ -9,4 +9,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    },
+{
+        "device_id": "4a7c1e741ebdc585",
+        "key": "somu",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
+}
+
